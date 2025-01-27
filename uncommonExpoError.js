@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The error message is vague and doesn't pinpoint the exact cause. It might manifest as a general build failure or a cryptic message related to native code compilation.  Often, it's linked to issues within the `android/app` directory, but the specific problem is hard to identify directly from the Expo CLI output.
